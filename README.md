@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcher)](https://github.com/jmarcher)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarcher)](https://github.com/jmarcher) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
